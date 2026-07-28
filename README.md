@@ -100,6 +100,8 @@ I enjoy building projects, experimenting with security labs, and learning how mo
 
 <img src="https://img.shields.io/badge/theHarvester-228B22?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/Scapy-1679A7?style=for-the-badge&logo=scapy&logoColor=white">
+
 </p>
 
 
