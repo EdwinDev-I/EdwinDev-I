@@ -201,4 +201,6 @@ Building applications using:
 
 ⭐ Building. Learning. Securing.
 
+ But with love. 🤍
+
 </div>
